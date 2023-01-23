@@ -1,6 +1,6 @@
 import React, {useState} from 'react';
 import AddUser from './components/Users/AddUser';
-import Card from './components/UI/Card';
+
 import UserList from './components/Users/UserList';
 
 function App() {
